@@ -1,4 +1,4 @@
-# My Encyclopedia
+# Philosophie
 
 Une compilation décousue de toutes mes lectures. 
 
